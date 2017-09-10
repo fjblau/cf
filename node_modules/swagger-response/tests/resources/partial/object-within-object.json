@@ -1,0 +1,19 @@
+{
+  "operation": {
+    "responses": {
+      "200": {
+        "schema": {
+          "properties": {
+            "foo": {
+              "properties": {
+                "string": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

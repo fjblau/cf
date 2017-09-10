@@ -1,0 +1,30 @@
+{
+  "operation": {
+    "responses": {
+      "200": {
+        "schema": {
+          "type": "array",
+          "items": {
+            "properties": {
+              "addressLine1": {
+                "type": "string"
+              },
+              "addressLine2": {
+                "type": "string"
+              },
+              "city": {
+                "type": "string"
+              },
+              "state": {
+                "type": "string"
+              },
+              "zipcode": {
+                "type": "number"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "operation": {
+    "responses": {
+      "200": {
+        "schema": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
